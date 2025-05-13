@@ -10,8 +10,8 @@ brew install ghostscript
 ```
 ## Ubuntu/Debian
 ```
- sudo apt-get install ghostscript
- ```
+sudo apt-get install ghostscript
+```
 
 # Usage
 **Options**  
