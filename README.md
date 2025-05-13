@@ -1,6 +1,17 @@
 # pdfCompressor
 .pdf extention file compressor
 
+# Dependency
+OS: ubuntu22.04(tested)
+
+## macOS
+```
+brew install ghostscript
+```
+## Ubuntu/Debian
+```
+ sudo apt-get install ghostscript
+ ```
 
 # Usage
 **Options**  
